@@ -2,8 +2,6 @@
 *{
 	padding:0px;
 	margin:0px;
-}h1, h2{
-	text-align:center;
 }li{
 	list-style-type:none;
 }html{
@@ -21,6 +19,12 @@ body{
 }
 }a{
 text-decoration-line: none;
+}
+h1{
+	text-align:center;
+}
+ h2{
+	text-align:center;
 }
 .player_one{
   background-color: white;
