@@ -19,6 +19,9 @@
 body{
 	background-color: rgb(204, 204, 204);
 }
+}a{
+	text-decoration-line:none;
+}
 .player_one{
   background-color: white;
   padding: 10px;
@@ -29,7 +32,4 @@ body{
   background-color: white;
   padding: 10px;
   border-radius: 10px;
-}
-}a{
-	text-decoration-line:underline;
 }
