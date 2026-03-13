@@ -19,7 +19,9 @@
 body{
 	background-color: rgb(204, 204, 204);
 }
-.palyer_one, .player_two{
+.player_two{
 	background-color:rgb(255, 255, 255); 
 	padding: border-radius;
+}a{
+	text-decoration-line:none;
 }
