@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+*{
+	padding:0px;
+	margin:0px;
+}h1, h2{
+	text-align:center;
+}li{
+	list-style-type:none;
+}html{
+	height:100vh;
+	width:100vw;
+}
+.container{
+		text-align:center;
+}
+.song{
+		
+}
+body{
+	background-color: rgb(204, 204, 204);
+}
+.palyer_one, .player_two{
+	background-color:rgb(255, 255, 255); 
+	padding: border-radius;
+}
