@@ -31,5 +31,5 @@ body{
   border-radius: 10px;
 }
 }a{
-	text-decoration-line:none;
+	text-decoration-line:underline;
 }
