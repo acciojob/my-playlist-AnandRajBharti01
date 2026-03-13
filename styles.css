@@ -20,7 +20,7 @@ body{
 	background-color: rgb(204, 204, 204);
 }
 .player_two{
-	background-color:rgb(255, 255, 255); 
+	background-color:rgba(0, 0, 0, 0); 
 	padding: border-radius;
 }a{
 	text-decoration-line:none;
